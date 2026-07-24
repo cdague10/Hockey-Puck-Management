@@ -1,2 +1,2 @@
 # Hockey-Puck-Management
-Using tracking data, I created a rating system to evaluate how individual players handle the puck. Their efficiency rating is dependent of event type, location, and the player's position. Every position has a different weight value of features, based on position. *Data is accurate but teams and names are replacing the actual players.* 
+Using tracking data, I created a rating system to evaluate how individual players handle the puck. Their efficiency rating is dependent of event type, location, and the player's position. Every position has a different weight value of features, based on position. *Data is accurate but teams and names are replacing the actual players.* The only data missing is the player tracking data. Everything else is attatched
