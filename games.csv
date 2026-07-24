@@ -1,0 +1,20 @@
+game_id,game_date,away_team_id,home_team_id,away_team_loc,away_team_name,away_team_short,home_team_loc,home_team_name,home_team_short
+171065,2025-08-09,1384,1382,Colorado,Avalanche,COL,Toronto,Maple Leafs,TOR
+171082,2025-08-11,1385,1387,Boston,Bruins,BOS,Vegas,Golden Knights,VGK
+171081,2025-08-11,1381,1383,Dallas,Stars,DAL,Edmonton,Oilers,EDM
+171080,2025-08-11,879,1382,Carolina,Hurricanes,CAR,Toronto,Maple Leafs,TOR
+171073,2025-08-11,1386,1384,Detroit,Red Wings,DET,Colorado,Avalanche,COL
+171085,2025-08-12,1385,1386,Boston,Bruins,BOS,Detroit,Red Wings,DET
+171084,2025-08-12,1381,1382,Dallas,Stars,DAL,Toronto,Maple Leafs,TOR
+171083,2025-08-12,1383,879,Edmonton,Oilers,EDM,Carolina,Hurricanes,CAR
+171074,2025-08-12,1384,1387,Colorado,Avalanche,COL,Vegas,Golden Knights,VGK
+171088,2025-08-13,1381,879,Dallas,Stars,DAL,Carolina,Hurricanes,CAR
+171075,2025-08-13,1385,1384,Boston,Bruins,BOS,Colorado,Avalanche,COL
+171087,2025-08-13,1387,1386,Vegas,Golden Knights,VGK,Detroit,Red Wings,DET
+171086,2025-08-13,1382,1383,Toronto,Maple Leafs,TOR,Edmonton,Oilers,EDM
+186403,2025-08-15,1382,1384,Toronto,Maple Leafs,TOR,Colorado,Avalanche,COL
+186402,2025-08-15,1387,879,Vegas,Golden Knights,VGK,Carolina,Hurricanes,CAR
+186401,2025-08-15,1386,1383,Detroit,Red Wings,DET,Edmonton,Oilers,EDM
+186400,2025-08-15,1385,1381,Boston,Bruins,BOS,Dallas,Stars,DAL
+186911,2025-08-16,1382,879,Toronto,Maple Leafs,TOR,Carolina,Hurricanes,CAR
+186910,2025-08-16,1384,1387,Colorado,Avalanche,COL,Vegas,Golden Knights,VGK
